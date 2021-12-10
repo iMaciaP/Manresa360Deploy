@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Manresa360_react/static/css/main.7c90efc5.chunk.css",
-    "main.js": "/Manresa360_react/static/js/main.ded9154c.chunk.js",
-    "main.js.map": "/Manresa360_react/static/js/main.ded9154c.chunk.js.map",
-    "runtime-main.js": "/Manresa360_react/static/js/runtime-main.e769bd9b.js",
-    "runtime-main.js.map": "/Manresa360_react/static/js/runtime-main.e769bd9b.js.map",
-    "static/js/2.f0742ee7.chunk.js": "/Manresa360_react/static/js/2.f0742ee7.chunk.js",
-    "static/js/2.f0742ee7.chunk.js.map": "/Manresa360_react/static/js/2.f0742ee7.chunk.js.map",
-    "index.html": "/Manresa360_react/index.html",
-    "static/css/main.7c90efc5.chunk.css.map": "/Manresa360_react/static/css/main.7c90efc5.chunk.css.map",
-    "static/js/2.f0742ee7.chunk.js.LICENSE.txt": "/Manresa360_react/static/js/2.f0742ee7.chunk.js.LICENSE.txt"
+    "main.css": "/Manresa360Deploy/static/css/main.7c90efc5.chunk.css",
+    "main.js": "/Manresa360Deploy/static/js/main.37d917c2.chunk.js",
+    "main.js.map": "/Manresa360Deploy/static/js/main.37d917c2.chunk.js.map",
+    "runtime-main.js": "/Manresa360Deploy/static/js/runtime-main.40cef30c.js",
+    "runtime-main.js.map": "/Manresa360Deploy/static/js/runtime-main.40cef30c.js.map",
+    "static/js/2.f0742ee7.chunk.js": "/Manresa360Deploy/static/js/2.f0742ee7.chunk.js",
+    "static/js/2.f0742ee7.chunk.js.map": "/Manresa360Deploy/static/js/2.f0742ee7.chunk.js.map",
+    "index.html": "/Manresa360Deploy/index.html",
+    "static/css/main.7c90efc5.chunk.css.map": "/Manresa360Deploy/static/css/main.7c90efc5.chunk.css.map",
+    "static/js/2.f0742ee7.chunk.js.LICENSE.txt": "/Manresa360Deploy/static/js/2.f0742ee7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e769bd9b.js",
+    "static/js/runtime-main.40cef30c.js",
     "static/js/2.f0742ee7.chunk.js",
     "static/css/main.7c90efc5.chunk.css",
-    "static/js/main.ded9154c.chunk.js"
+    "static/js/main.37d917c2.chunk.js"
   ]
 }
